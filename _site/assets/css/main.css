@@ -27,7 +27,7 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 600; }
 
 /** Links */
-a { color: #ff5100; text-decoration: none; }
+a { color: #389092; text-decoration: none; }
 
 a:hover { text-decoration: underline; }
 
@@ -134,9 +134,9 @@ html[data-scroll-status='down'] .framework .sidebar { top: 20px; }
 
 .site-footer .site-footer-inner { transition: border-top 0.2s; padding: 54px 0; }
 
-.site-footer a { color: #ff5100; }
+.site-footer a { color: #389092; }
 
-.site-footer a:hover { color: #ff7433; }
+.site-footer a:hover { color: #46b4b7; }
 
 /** Post header */
 .post .post-header { margin-bottom: 30px; }
@@ -167,7 +167,7 @@ html[data-scroll-status='down'] .framework .sidebar { top: 20px; }
 
 .pagination .post-title a { text-decoration: none; }
 
-.pagination .post-title a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #ff5100; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
+.pagination .post-title a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #389092; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
 
 .pagination .post-title a:visited:after { background-color: #fff; }
 
@@ -234,7 +234,7 @@ html[data-scroll-status='down'] .framework .sidebar { top: 20px; }
 
 .post .post-related ul a:hover { color: #333; }
 
-.post .post-related ul a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #ff5100; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
+.post .post-related ul a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #389092; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
 
 .post .post-related ul a:visited:after { background-color: #fff; }
 
@@ -325,7 +325,7 @@ html[data-scroll-status='down'] .framework .sidebar { top: 20px; }
 
 .page-segments li a:hover { color: #000; }
 
-.page-segments li a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #ff5100; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
+.page-segments li a:after { content: 'NEW'; position: absolute; margin-left: 8px; margin-top: 3px; padding: 0px 3px; background-color: #389092; color: #fff; font-size: 10px; font-weight: 600; border-radius: 2px; }
 
 .page-segments li a:visited:after { background-color: #fff; }
 

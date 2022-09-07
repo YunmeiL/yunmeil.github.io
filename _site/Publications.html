@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+body,html {
+
+    height:0%;
+    
+    width:100%;
+  
+    }
+</style>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +33,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Yunmei Liu"},"description":"Yuemei Liu - Ph.D. candidate at University of Florida","headline":"Publications","url":"http://localhost:4000/Publications.html"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="shortcut icon" href="">
+<link rel="shortcut icon" href="assets/images/banners/YL.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-noto-sans@0.0.72/index.min.css">
   <link rel="stylesheet" href="/assets/css/main.css">
@@ -119,6 +129,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
     display: none;
   }
 </style>
+
 </head>
 <body>
 
@@ -244,12 +255,22 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 
 
-<header class="site-header " role="banner">
+
+
+
+
+
+
+
+
+
+
+<header class="site-header site-header-transparent" role="banner">
 
   <div class="wrapper">
     <div class="site-header-inner">
 <span class="site-brand"><a class="site-brand-inner" rel="author" href="/">
-  <img class="site-favicon" title="Home" src="" onerror="this.style.display='none'">
+  <!-- <img class="site-favicon" title="Home" src="assets/images/banners/YL.png" onerror="this.style.display='none'"> -->
   Home
 </a>
 </span><nav class="site-nav">
@@ -263,7 +284,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
           </label>
 
           <div class="trigger">
-<a class="page-link" href="/about.html">ABOUT</a><a class="page-link" href="/Projects.html">PROJECTS</a><a class="page-link" href="/Publications.html">PUBLICATIONS</a><a class="page-link" href="/archives.html">ARCHIVES</a>
+<a class="page-link" href="/About.html">ABOUT</a><a class="page-link" href="/Projects.html">PROJECTS</a><a class="page-link" href="/Publications.html">PUBLICATIONS</a><a class="page-link" href="/News.html">NEWS</a>
 
 
 
@@ -415,7 +436,7 @@ function googleTranslateElementInit() {
     var documentElement = document.documentElement;
 
     function storeScrollData() {
-      var y = getScrollPos().y;var scrollStatus = "";
+      var y = getScrollPos().y;documentElement.setAttribute("data-header-transparent", "");var scrollStatus = "";
 
       if (y <= 0) {
         scrollStatus = "top";
@@ -581,7 +602,40 @@ function googleTranslateElementInit() {
 
 
 
-<script>
+
+
+
+
+
+
+
+
+
+
+<style>html .page-banner {
+      height:  92.0px;
+      min-height: 250px;
+    }
+    html[data-scroll-status="top"] .page-banner {
+      height: 250px;
+    }
+  </style>
+<section class="page-banner">
+    <div class="page-banner-img">
+<div style="background-image: url(/assets/images/banners/IMG4.jpeg)"></div>
+        <img class="img-placeholder" src="/assets/images/banners/IMG4.jpeg">
+</div>
+    <div class="wrapper">
+      <div class="page-banner-inner"><div class="page-banner-default">
+            <h1 class="page-banner-heading">
+              Yunmei Liu
+            </h1>
+            <h2 class="page-banner-subheading">
+              Ph.D. Candidate at University of Florida
+            </h2>
+          </div></div>
+    </div>
+  </section><script>
   function hashLocate(hashValue) {
     hashValue = hashValue.replace(/^.*#h-/, '');
     hashValue = decodeURIComponent(hashValue);
@@ -733,12 +787,83 @@ function googleTranslateElementInit() {
   })();
 </script>
 <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <h2 id="journal">Journal</h2>
+      <div class="wrapper" style="margin-top: -60px;">
+        <h1 align="center">PUBLICATIONS</h1>
+<!-- <div align='center'><font size='60'>Projects</font></div> -->
+<hr>
 
-<h2 id="conference-paper">Conference Paper</h2>
+<p><br></p>
 
-<h2 id="working-paper">Working paper</h2>
+<h2 id="refereed-book-chapter-accepted-or-published">Refereed Book Chapter (accepted or published)</h2>
+<p><b>[1]</b>. Kaber, D. B., <b>Liu, Y.</b> &amp; Lau, M. Y. (in processing). Considering Severity of Safety-Critical System Outcomes in Risk Analysis: An Extension of Fault-Tree Analysis. In J-C. Le Coze &amp; S. Antonsen, <i>SpringerBriefs in Safety Management - Safety in a Digital Age: Old and New Problems</i>. Cham, Switzerland: Springer.<br><br></p>
+
+<h2 id="refereed-journal-papers-under-reviewrevision">Refereed Journal Papers (under review/revision)</h2>
+<p><b>[2]</b>. <b>Liu, Y.</b> &amp; Kaber, D. B. (in review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br><br>
+<b>[3]</b>. Lau, M., <b>Liu, Y.</b> &amp; Kaber, D. B. (in review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br><br>
+<b>[4]</b>. Zhang, W., <b>Liu, Y.</b>  &amp; Kaber, D.B. (in revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br><br></p>
+
+<h2 id="refereed-journal-papers-in-preparation">Refereed Journal Papers (in preparation)</h2>
+<p><b>[5]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (Sep. 2022). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. About to submit to <i>Ergonomics</i>.<br><br>
+<b>[6]</b>. <b>Liu, Y.</b>, Park, J., Berman, J., Dodson, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (Sep. 2022). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. About to submitted to <i>IEEE Transactions on Human-Machine Systems</i>.<br><br>
+<b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T., Kaber, D. B. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.<br><br>
+<b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D. B.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br><br></p>
+
+<h2 id="refereed-conference-papers-published-in-proceeding">Refereed Conference Papers (published in proceeding)</h2>
+<p><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D. B., Sabahi, S., and Cunningham, C. (2022; under review). Machine learning models of erroneous driver actions at novel interchange configurations, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. XX-XX.<br><br>
+<b>[C2]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Matthew, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (2022; under review). Cognitive workload classification of upper-limb prosthetic devices, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. XX-XX.<br><br>
+<a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage, <i>13th International Conference on Applied Human Factors and Ergonomics (AHFE)</i>, 2022; 60: 287-296. </a><br><br>
+<a href="https://ieeexplore.ieee.org/document/9582630" target="_blank"><b>[C4]</b>. <b>Liu, Y.</b> and Kaber, D. B. Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation, <i>2021 IEEE 2nd International Conference on Human-Machine Systems (ICHMS)</i>, 2021, pp. 1-6.</a><br><br>
+<a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. B. and Feng, J. Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 2020; 64(1):1960-1964.</a></p>
+
+
+<!--
+    <li><span class="post-meta">Jan 1, 2022</span>
+    <h3>
+     <a class="post-link" href="/markdown/2022/01/01/DARPA.html">
+      4. Real-time Perceptually-enabled Task Guidance in the Extremes
+     </a>
+     </h3>          
+    </li>
+  
+  
+    <li><span class="post-meta">Dec 1, 2019</span>
+    <h3>
+     <a class="post-link" href="/markdown/2019/12/01/NSF.html">
+      3. EMG-based Assistive Human-Machine Interface Design
+     </a>
+     </h3>          
+    </li>
+  
+  
+    <li><span class="post-meta">Sep 1, 2019</span>
+    <h3>
+     <a class="post-link" href="/markdown/2019/09/01/Other.html">
+      5. Other Projects
+     </a>
+     </h3>          
+    </li>
+  
+  
+    <li><span class="post-meta">Sep 1, 2019</span>
+    <h3>
+     <a class="post-link" href="/markdown/2019/09/01/GSIX.html">
+      2. Roadway Signage for Novel Grade-separated Interchanges
+     </a>
+     </h3>          
+    </li>
+  
+  
+    <li><span class="post-meta">Sep 1, 2019</span>
+    <h3>
+     <a class="post-link" href="/markdown/2019/09/01/Dissertation.html">
+      1. Research on Automation Rate and Situation Awareness Responses
+     </a>
+     </h3>          
+    </li>
+  
+  -->
+
+
 
       </div>
     </main><footer class="site-footer h-card">
@@ -746,14 +871,31 @@ function googleTranslateElementInit() {
 
   <div class="wrapper">
     <div class="site-footer-inner">
-      <div>Copyright © @Yunmei Liu</div>
-      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
+      
+      <div>Contact Me:</div>
+      <div>📩 Email: liu.yunmei@ufl.edu</div>
+      <div><p>🏢 Address: 401 Weil Hall, P.O. Box 116595, Gainesville, FL 32611</p></div>
+
+      <div>Check Me Out:</div>
+      <div>💻 <a href="https://scholar.google.com/citations?user=FeLtzgcAAAAJ&hl=en" target="_blank">Google Scholar</a>
+</div>
+      <!-- <div>Copyright © @Yunmei Liu</div> -->
+      <!-- <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="http://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a>
-</div>
+      <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a></div> -->
     </div>
   </div>
 </footer>
 </body>
-</html>
+</html><!-- <style>
+  content, html {
+  
+  position:absolute;
+  
+  height: 1px;
+  
+  background-color: green;
+  
+  }
+  </style> -->
