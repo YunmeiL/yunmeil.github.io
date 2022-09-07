@@ -129,7 +129,7 @@ yat:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.md
-  - About.html
+  - About.md
   - Projects.html
   - Publications.html
   - News.html

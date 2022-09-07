@@ -1,8 +1,8 @@
 ---
 layout: home
 title: About
-# permalink: /about/
 ---
+
 <h1 align="center">ABOUT</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 
