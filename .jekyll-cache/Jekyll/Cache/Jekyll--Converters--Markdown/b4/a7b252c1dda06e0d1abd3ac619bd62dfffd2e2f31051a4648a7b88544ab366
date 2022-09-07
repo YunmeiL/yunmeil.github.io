@@ -1,20 +1,13 @@
----
-layout: post
-title: 2. Roadway Signage for Novel Grade-separated Interchanges 
-subtitle: NC DOT Project 
-categories: markdown
-tags: [project]
----
-<font size=3>
+I"R<font size="3">
 <p style="text-align:justify; text-justify:inter-ideograph;">
 This is an NCDOT-funded project that used a driving simulator to compare the driving performance and mental state of young and middle-aged drivers while navigating standard intersections and novel GSI (contraflow and quadrant) conditions. The experiment also manipulated driver exposure to different configurations of lane assignment and decision point signs. 
 
 </p>
 </font>
 
-### 2.1 Project overview
+<h3 id="21-project-overview">2.1 Project overview</h3>
 
-<font size=3>
+<font size="3">
 <p style="text-align:justify; text-justify:inter-ideograph;">
 <!-- ## Here is a secondary heading -->
 This study developed datasets on driver behavior in using novel interchange designs to support computational models for predicting performance with new designs and accelerating DOT interchange implementation.
@@ -86,24 +79,25 @@ This study developed datasets on driver behavior in using novel interchange desi
 </p>
 </font>
 
-#### <a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank">AHFE</a> Presentation Video
+<h4 id="ahfe-presentation-video"><a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank">AHFE</a> Presentation Video</h4>
 
-<p align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qTCoAUiOJkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTCoAUiOJkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </p>
 
-### 2.2 Related paper
-#### Submitted paper
- <b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D., Sabahi, S., and Cunningham, C. (2022; under review). Machine learning models of erroneous driver actions at novel interchange configurations, 2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS), 2022, pp. XX-XX.<br/>
+<h3 id="22-related-paper">2.2 Related paper</h3>
+<h4 id="submitted-paper">Submitted paper</h4>
+<p><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D., Sabahi, S., and Cunningham, C. (2022; under review). Machine learning models of erroneous driver actions at novel interchange configurations, 2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS), 2022, pp. XX-XX.<br /></p>
 
-<a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage, 13th International Conference on Applied Human Factors and Ergonomics (AHFE), 2022; 60: 287-296. </a>
+<p><a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage, 13th International Conference on Applied Human Factors and Ergonomics (AHFE), 2022; 60: 287-296. </a></p>
 
-#### Working paper
-<b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. Kaber, D. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.
+<h4 id="working-paper">Working paper</h4>
+<p><b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. Kaber, D. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.</p>
 
-### 2.3 Demo video
+<h3 id="23-demo-video">2.3 Demo video</h3>
 
 <!-- ![](https://youtu.be/db3A5tPrsq8) -->
-<p align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/db3A5tPrsq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/db3A5tPrsq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </p>
+:ET

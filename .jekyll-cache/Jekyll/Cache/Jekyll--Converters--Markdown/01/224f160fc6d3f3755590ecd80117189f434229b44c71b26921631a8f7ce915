@@ -1,4 +1,4 @@
-I"L<font size="3">
+I"`<font size="3">
 <p style="text-align:justify; text-justify:inter-ideograph;">
 This is an NCDOT-funded project that used a driving simulator to compare the driving performance and mental state of young and middle-aged drivers while navigating standard intersections and novel GSI (contraflow and quadrant) conditions. The experiment also manipulated driver exposure to different configurations of lane assignment and decision point signs. 
 
@@ -97,4 +97,7 @@ This study developed datasets on driver behavior in using novel interchange desi
 <h3 id="23-demo-video">2.3 Demo video</h3>
 
 <p><img src="https://youtu.be/db3A5tPrsq8" alt="" /></p>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/db3A5tPrsq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
 :ET
