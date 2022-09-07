@@ -1,4 +1,4 @@
-I"q<font size="3">
+I"L<font size="3">
 <p style="text-align:justify; text-justify:inter-ideograph;">
 This is an NCDOT-funded project that used a driving simulator to compare the driving performance and mental state of young and middle-aged drivers while navigating standard intersections and novel GSI (contraflow and quadrant) conditions. The experiment also manipulated driver exposure to different configurations of lane assignment and decision point signs. 
 
@@ -81,7 +81,9 @@ This study developed datasets on driver behavior in using novel interchange desi
 
 <h4 id="ahfe-presentation-video"><a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank">AHFE</a> Presentation Video</h4>
 
-<p><img src="https://youtu.be/qTCoAUiOJkM" alt="" /></p>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTCoAUiOJkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
 
 <h3 id="22-related-paper">2.2 Related paper</h3>
 <h4 id="submitted-paper">Submitted paper</h4>
