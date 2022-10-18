@@ -32,7 +32,7 @@ In 2012, I left my beautiful hometown to study industrial engineering at Shandon
 
 <br/><br/>
            
-<b>Click <a href="/assets/images/banners/CV_YL.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
+<b>Click <a href="/assets/images/banners/Update_CV_YL_1017_v2.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
 </font>
 <h2 align="left">My hometown map</h2>
 <!-- <img height='450' align="right" src="assets/images/banners/map.png"/>
