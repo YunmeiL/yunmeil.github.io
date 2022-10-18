@@ -15,10 +15,10 @@ title: Publications
 <b>[2]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
 <b>[3]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. B. (in review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br/><br/>
 <b>[4]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D.B. (in revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br/><br/>
+<b>[5]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (in review). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. Submitted to <i>Ergonomics</i>(10/17/22).<br/><br/>
 
 ## Refereed Journal Papers (in preparation) 
-<b>[5]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (Sep. 2022). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. About to submit to <i>Ergonomics</i>.<br/><br/>
-<b>[6]</b>. <b>Liu, Y.</b>, Park, J., Berman, J., Dodson, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (Sep. 2022). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. About to submitted to <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
+<b>[6]</b>. <b>Liu, Y.</b>, Park, J., Berman, J., Dodson, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (Oct. 2022). Cognitive workload classification of electromyography (EMG)-based prosthetic devices. About to submitted to <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
 <b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T., Kaber, D. B. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.<br/><br/>
 <b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D. B.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
 
