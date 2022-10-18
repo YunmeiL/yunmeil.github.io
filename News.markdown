@@ -10,7 +10,7 @@ title: News
 
 <br/>
 
-+ <font size=3>Won <a href="https://www.eng.ufl.edu/students/students/international/international-students/international-student-awards/" target="_blank">the UF International Center Certificates of Outstanding Achievement</a> .  [Octomber, 2022]<br/><br/>
++ <font size=3>Won <a href="https://www.eng.ufl.edu/students/students/international/international-students/international-student-awards/" target="_blank">the UF International Center Certificates of Outstanding Achievement</a> .  [October, 2022]<br/><br/>
 
 + <font size=3><a href="https://www.ise.ufl.edu/hfes/leadership/" target="_blank">Became the 1st President of UF Human Factors and Ergonomics Society Student Chapter</a> [August, 2022]<br/><br/>
 
