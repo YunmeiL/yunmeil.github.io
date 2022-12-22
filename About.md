@@ -24,11 +24,13 @@ img  {
 <!-- <h1 align="center">ABOUT</h1> -->
  <p style="text-align:justify; text-justify:inter-ideograph;">
 <font size=3>
-I am originally from Yantai, China. With distinct seasons and plenty of rainfall, my hometown is famous all over the country for its rich fruits such as apples and cherries. <br/><br/>
-    
-In 2012, I left my beautiful hometown to study industrial engineering at Shandong University; then I completed my bachelor's degree in 2016 and was admitted to Nanjing University as a graduate student with outstanding performance. I completed my master's degree through Nanjing University in 2019. During that degree, I developed an interest in research on the relationship between humans and systems. I subsequently applied to University of Florida and began studies in the fall of 2019. I have been involved in several research projects on transportation systems and assistive technologies, and has been working on a minor in statistics. <br/><br/>
 
-<p>Outside of research, I love doing yoga and cooking. My friends say I'm gifted with Chinese food, but I currently see it as flattery.&#128516;</p>
+
+Hi there! My name is Yunmei and I'm originally from Yantai, China, a place known for its delicious apples and cherries. <br/><br/>
+
+After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my current studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/>
+
+<p>When I'm not busy with research, I enjoy practicing yoga and cooking. My friends say I'm a pro at making Chinese food, but I'm still learning and getting better every day. In my spare time, I also love to try new recipes and experiment with different flavors. Thanks for getting to know me! &#128516;</p>
 
 <br/><br/>
            
