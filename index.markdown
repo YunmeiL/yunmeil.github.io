@@ -19,9 +19,9 @@ img  {
 
 <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-<font size=3>Hi! I'm currently a Ph.D. Candidate at <a href="https://www.ufl.edu" target="_blank">University of Florida</a> in the  <a href="https://www.ise.ufl.edu" target="_blank">Department of Industrial and Systems Engineering</a>, where I am fortunate to be advised by <a href="https://www.ise.ufl.edu/kaber/" target="_blank">Dr. David Kaber</a>. Meanwhile, I am also minoring in Statistics. I expect to complete my degree in <i>June 2023</i>.<br/>
+<font size=3>Hi! I'm currently a Ph.D. Candidate at the <a href="https://www.ufl.edu" target="_blank">University of Florida</a> in the  <a href="https://www.ise.ufl.edu" target="_blank">Department of Industrial and Systems Engineering</a>, where I am fortunate to be advised by <a href="https://www.ise.ufl.edu/kaber/" target="_blank">Dr. David Kaber</a>. I'm also minoring in Statistics and expect to complete my degree in <i>June 2023</i>.<br/>
 
-I am broadly interested in applying theories and principles of human factors in systems design and systems engineering to analysis, modeling and development of various human-in-the-loop systems to make them safer and more efficient.   <br/>
+As a researcher, I'm interested in using theories and principles of human factors in systems design and systems engineering to analyze, model, and develop various human-in-the-loop systems in order to make them safer and more efficient. <br/>
 
 
 
@@ -70,7 +70,7 @@ I am broadly interested in applying theories and principles of human factors in 
 
    <body>
 
-     <h3>My research interests including:</h3>
+     <h3>Some of my specific research interests include:</h3>
 
      <!-- Create an Unordered List -->
 
@@ -92,7 +92,8 @@ I am broadly interested in applying theories and principles of human factors in 
 
 </html>
 
-My research covers multiple application areas such as transportation, medical and defense systems. Please visit my <a href="/Projects.html" target="_blank">PROJECTS</a> page for more information about my research experience. 
+My research covers a range of application areas including transportation, medical systems, and defense systems. If you'd like to learn more about my research experience, please visit my <a href="/Projects.html" target="_blank">PROJECTS</a> page. 
+
 </font>
  </p>
 
