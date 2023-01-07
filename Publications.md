@@ -35,6 +35,8 @@ title: Publications
 
 <a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. B. and Feng, J. Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 2020; 64(1):1960-1964.</a>
 
+<br/><br/>
+
 
 <h1 align="center">PRESENTATIONS</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
