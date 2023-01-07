@@ -45,7 +45,7 @@ title: Publications
 <br/>
 
 ## Conference Presentations 
-<b>[1]</b>. Machine learning models of erroneous driver actions at novel interchange configurations. <i>IEEE 3rd ICHMS (November 2022),</i>Orlando, FL.<br/><br/>
+<b>[1]</b>. Machine learning models of erroneous driver actions at novel interchange configurations. <i>IEEE 3rd ICHMS (November 2022), </i>Orlando, FL.<br/><br/>
 <b>[2]</b>. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>13th International Conference on AHFE (July 2022), </i>New York, NY.<br/><br/>
 <b>[3]</b>. User equilibrium model considering traveler decision inertia under random demand network. <i>Behavioral Operations Management 13th Annual Meeting (2018), </i>Guangzhou, China.<br/><br/>
 
