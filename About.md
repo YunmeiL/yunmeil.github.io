@@ -34,7 +34,7 @@ After completing my bachelor's degree in industrial engineering at Shandong Univ
 
 <br/><br/>
            
-<b>Click <a href="/assets/images/banners/Update_CV_YL_1221.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
+<b>Click <a href="/assets/images/banners/Update_CV_YL_0108.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
 </font>
 <h2 align="left">My hometown map</h2>
 <!-- <img height='450' align="right" src="assets/images/banners/map.png"/>
