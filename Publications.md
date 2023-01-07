@@ -45,11 +45,11 @@ title: Publications
 <br/>
 
 ## Conference Presentations 
-<b>[1]</b>. 1.	Machine learning models of erroneous driver actions at novel interchange configurations. <i>IEEE 3rd ICHMS (November 2022),</i>Orlando, FL.<br/><br/>
-<b>[2]</b>. 2.	Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>13th International Conference on AHFE (July 2022), </i>New York, NY.<br/><br/>
-<b>[3]</b>. 3.	User equilibrium model considering traveler decision inertia under random demand network. <i>Behavioral Operations Management 13th Annual Meeting (2018), </i>Guangzhou, China.<br/><br/>
+<b>[1]</b>. Machine learning models of erroneous driver actions at novel interchange configurations. <i>IEEE 3rd ICHMS (November 2022),</i>Orlando, FL.<br/><br/>
+<b>[2]</b>. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>13th International Conference on AHFE (July 2022), </i>New York, NY.<br/><br/>
+<b>[3]</b>. User equilibrium model considering traveler decision inertia under random demand network. <i>Behavioral Operations Management 13th Annual Meeting (2018), </i>Guangzhou, China.<br/><br/>
 
 ## Poster Presentations 
 
-<b>[4]</b>. 4.	Roadway signing and marking of unconventional grade separated intersection designs. <i>North Carolina Department of Transportation (NC DOT) 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
-<b>[5]</b>. 5.	Design consistency on corridors. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
+<b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>North Carolina Department of Transportation (NC DOT) 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
+<b>[5]</b>. Design consistency on corridors. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
