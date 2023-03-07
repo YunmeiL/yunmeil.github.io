@@ -10,7 +10,7 @@ title: News
 
 <br/>
 
-+ <font size=3><a href="https://www.ise.ufl.edu/harold-d-haldeman-jr-fellowship-award-recipient-list/" target="_blank">Received Graduate Scholarship from the Department of Industrial & Systems Engineering (ISE) - University of Florida ($TBD)</a> [March, 2023] <br/><br/>
++ <font size=3><a href="https://www.ise.ufl.edu/awards/departmental-awards/?" target="_blank">Received Graduate Scholarship from the Department of Industrial & Systems Engineering (ISE) - University of Florida ($TBD)</a> [March, 2023] <br/><br/>
 
 + <font size=3><a href="https://www.ise.ufl.edu/ichms2022/conference-session-overview/" target="_blank">Served as Chair and Organizer of sessions on Technical Sessions and Student Paper Session at 3rd IEEE International Conference of Human Machine Systems </a> [November, 2022]<br/><br/>
 
