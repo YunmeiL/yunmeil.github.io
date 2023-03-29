@@ -51,5 +51,11 @@ title: Publications
 
 ## Poster Presentations 
 
-<b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>North Carolina Department of Transportation (NC DOT) 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
-<b>[5]</b>. Design consistency on corridors. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.<br/><br/>
+<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>North Carolina Department of Transportation (NC DOT) 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
+
+<img src="/assets/images/banners/Poster_GSIX.png"/><br/><br/>
+
+
+<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b><b>[5]</b>. Design consistency on corridors. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
+
+<img src="/assets/images/banners/Poster_DC.png"/>
