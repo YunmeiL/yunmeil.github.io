@@ -33,10 +33,9 @@ title: Publications
 
 <a href="https://ieeexplore.ieee.org/document/9980676" target="_blank"><b>[C4]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Matthew, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M.. Cognitive workload classification of upper-limb prosthetic devices, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. 1-6. </a><br/><br/>
 
-<a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. B. and Feng, J. Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 2020; 64(1):1960-1964.</a>
+<a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. B. and Feng, J.. Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 2020; 64(1):1960-1964.</a><br/><br/>
 
-<br/><br/>
-
+<b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (Submitted). Cognitive Workload and Usability of Virtual Reality Simulation for Prosthesis Training <i> 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>.<br/><br/>
 
 <h1 align="center">PRESENTATIONS</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
