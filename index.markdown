@@ -19,7 +19,7 @@ img  {
 
 <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-<font size=3>Hi! I'm currently a Ph.D. Candidate at the <a href="https://www.ufl.edu" target="_blank">University of Florida</a> in the  <a href="https://www.ise.ufl.edu" target="_blank">Department of Industrial and Systems Engineering</a>, where I am fortunate to be advised by <a href="https://www.ise.ufl.edu/kaber/" target="_blank">Dr. David Kaber</a>. I'm also minoring in Statistics and expect to complete my degree in <i>June 2023</i>.<br/>
+<font size=3>Hi! I'm currently a Ph.D. Candidate at the <a href="https://www.ufl.edu" target="_blank">University of Florida</a> in the  <a href="https://www.ise.ufl.edu" target="_blank">Department of Industrial and Systems Engineering</a>, where I am fortunate to be advised by <a href="https://www.ise.ufl.edu/kaber/" target="_blank">Dr. David Kaber</a>. I'm also minoring in Statistics and expect to complete my degree in <i>August 2023</i>.<br/>
 
 As a researcher, I'm interested in using theories and principles of human factors in systems design and systems engineering to analyze, model, and develop various human-in-the-loop systems in order to make them safer and more efficient. <br/>
 
