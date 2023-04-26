@@ -23,6 +23,9 @@ title: Publications
 
 <b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T., Kaber, D. B. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.<br/><br/>
 <b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D. B.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
+<b>[9]</b>. <b>Liu, Y.</b> and Kaber, D. B.. Validity assessment for a SA response function in level of automation. Target journal: <i>Human Factors</i>.<br/><br/>
+<b>[10]</b>. <b>Liu, Y.</b> and Kaber, D. B.. Effects of driver experience and level of vehicle automation on SA, workload and performance. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
+<b>[11]</b>. <b>Liu, Y.</b>, Grimaldi, N. S., Wozniak, D., Chen, E., Zahabi, M., and Kaber, D. B.. Integration of cognitive workload modeling and physiological responses for real-time user state classification. Target journal: <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
 
 ## Refereed Conference Papers (published in proceeding)
 <a href="https://ieeexplore.ieee.org/document/9980657" target="_blank"><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D. B., Sabahi, S., and Cunningham, C.. Machine learning models of erroneous driver actions at novel interchange configurations, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. 1-6. </a><br/><br/>

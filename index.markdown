@@ -94,7 +94,7 @@ As a researcher, I'm interested in using theories and principles of human factor
 
 My research covers a range of application areas including transportation, medical systems, and defense systems. If you'd like to learn more about my research experience, please visit my <a href="/Projects.html" target="_blank">PROJECTS</a> page. <br/><br/><br/>
 
-<b>Click <a href="/assets/images/banners/Update_CV_YL_0421.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
+<b>Click <a href="/assets/images/banners/Update_CV_YL_0426.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
 
 </font>
  </p>
