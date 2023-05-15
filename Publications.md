@@ -40,6 +40,10 @@ title: Publications
 
 <b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (Submitted). Cognitive Workload and Usability of Virtual Reality Simulation for Prosthesis Training <i> 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>.<br/><br/>
 
+## Refereed Research Report (published)
+<a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., & <B>Liu, Y.</b> (2022). "Roadway signing and marking of unconventional grade separated intersection designs." Project Report. <i>[North Carolina Department of Transportation (NC DOT)]</i>.</a><br/><br/>
+<b>[R2]</b>. Cunningham, C. M., Chase, R. T., Yang, G., Wright, W., Pyo, K., Kaber, D., & <B>Liu, Y.</b> (in process). "Design consistency on corridors" Project Report. <i>[NC DOT]</i>.<br/><br/>
+
 <h1 align="center">PRESENTATIONS</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 ---
@@ -53,7 +57,7 @@ title: Publications
 
 ## Poster Presentations 
 
-<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>North Carolina Department of Transportation (NC DOT) 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
+<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
 
 <img src="/assets/images/banners/Poster_GSIX.png"/><br/><br/>
 
