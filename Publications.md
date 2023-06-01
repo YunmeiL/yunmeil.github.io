@@ -11,13 +11,14 @@ title: Publications
 ## Refereed Book Chapter (accepted or published)
 <b>[1]</b>. Kaber, D. B., <b>Liu, Y.</b> & Lau, M. Y. (in processing). Considering Severity of Safety-Critical System Outcomes in Risk Analysis: An Extension of Fault-Tree Analysis. In J-C. Le Coze & S. Antonsen, <i>SpringerBriefs in Safety Management - Safety in a Digital Age: Old and New Problems</i>. Cham, Switzerland: Springer.<br/><br/>
 
-## Refereed Journal Papers (under review/revision) 
-<b>[2]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
-<b>[3]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. B.(in 2nd review). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (11/15/22).<br/><br/>
-<b>[4]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br/><br/>
-<b>[5]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D.B. (in 1st revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br/><br/>
-<b>[6]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (in 2nd revision). Assessing workload in using electromyography (EMG)-based prostheses. Submitted to <i>Ergonomics</i> (10/17/22).<br/><br/>
+## Refereed Journal Papers (accepted or published) 
+<b>[2]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (accepted). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>.<br/><br/>
 
+## Refereed Journal Papers (under review/revision) 
+<b>[3]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
+<b>[4]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. B.(in 2nd review). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (11/15/22).<br/><br/>
+<b>[5]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br/><br/>
+<b>[6]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D.B. (in 1st revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br/><br/>
 
 ## Refereed Journal Papers (in preparation) 
 
