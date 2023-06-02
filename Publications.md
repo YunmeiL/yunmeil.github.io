@@ -12,7 +12,7 @@ title: Publications
 <b>[1]</b>. Kaber, D. B., <b>Liu, Y.</b> & Lau, M. Y. (in processing). Considering Severity of Safety-Critical System Outcomes in Risk Analysis: An Extension of Fault-Tree Analysis. In J-C. Le Coze & S. Antonsen, <i>SpringerBriefs in Safety Management - Safety in a Digital Age: Old and New Problems</i>. Cham, Switzerland: Springer.<br/><br/>
 
 ## Refereed Journal Papers (accepted or published) 
-<b>[2]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (accepted). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>.<br/><br/>
+<a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[2]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
 
 ## Refereed Journal Papers (under review/revision) 
 <b>[3]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
