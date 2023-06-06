@@ -8,42 +8,40 @@ title: Publications
 
 <br/>
 
-## Refereed Book Chapter (accepted or published)
-<b>[1]</b>. Kaber, D. B., <b>Liu, Y.</b> & Lau, M. Y. (in processing). Considering Severity of Safety-Critical System Outcomes in Risk Analysis: An Extension of Fault-Tree Analysis. In J-C. Le Coze & S. Antonsen, <i>SpringerBriefs in Safety Management - Safety in a Digital Age: Old and New Problems</i>. Cham, Switzerland: Springer.<br/><br/>
-
-## Refereed Journal Papers (accepted or published) 
-<a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[2]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
+## Refereed Journal Paper and Book Chapter (accepted or published)
+<a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[1]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
+<b>[2]</b>. Kaber, D., <b>Liu, Y.</b> & Lau, M. Y. (in processing). Considering Severity of Safety-Critical System Outcomes in Risk Analysis: An Extension of Fault-Tree Analysis. In J-C. Le Coze & S. Antonsen, <i>SpringerBriefs in Safety Management - Safety in a Digital Age: Old and New Problems</i>. Cham, Switzerland: Springer.<br/><br/>
 
 ## Refereed Journal Papers (under review/revision) 
-<b>[3]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
-<b>[4]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. B.(in 2nd review). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (11/15/22).<br/><br/>
-<b>[5]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. B. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br/><br/>
-<b>[6]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D.B. (in 1st revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br/><br/>
+<b>[3]</b>. <b>Liu, Y.</b> & Kaber, D. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (12/31/21).<br/><br/>
+<b>[4]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (in 2nd review). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i> (11/15/22).<br/><br/>
+<b>[5]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i> (9/24/21). <br/><br/>
+<b>[6]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D. (in 1st revision). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i> (4/12/21).<br/><br/>
 
 ## Refereed Journal Papers (in preparation) 
 
-<b>[7]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T., Kaber, D. B. Novel interchange configurations and associated signage assessment. Target journal: Applied Ergonomics.<br/><br/>
-<b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D. B.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
-<b>[9]</b>. <b>Liu, Y.</b> and Kaber, D. B.. Validity assessment for a SA response function in level of automation. Target journal: <i>Human Factors</i>.<br/><br/>
-<b>[10]</b>. <b>Liu, Y.</b> and Kaber, D. B.. Effects of driver experience and level of vehicle automation on SA, workload and performance. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
-<b>[11]</b>. <b>Liu, Y.</b>, Grimaldi, N. S., Wozniak, D., Chen, E., Zahabi, M., and Kaber, D. B.. Integration of cognitive workload modeling and physiological responses for real-time user state classification. Target journal: <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
+<b>[7]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (about to submit) Analysis of driver behavior at grade-separated intersections to support design. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
+<b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
+<b>[9]</b>. <b>Liu, Y.</b> and Kaber, D.. Validity assessment for a SA response function in level of automation. Target journal: <i>Human Factors</i>.<br/><br/>
+<b>[10]</b>. <b>Liu, Y.</b> and Kaber, D.. Effects of driver experience and level of vehicle automation on SA, workload and performance. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
+<b>[11]</b>. <b>Liu, Y.</b>, Grimaldi, N. S., Wozniak, D., Chen, E., Zahabi, M., and Kaber, D.. Integration of cognitive workload modeling and physiological responses for real-time user state classification. Target journal: <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
 
 ## Refereed Conference Papers (published in proceeding)
-<a href="https://ieeexplore.ieee.org/document/9980657" target="_blank"><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D. B., Sabahi, S., and Cunningham, C.. Machine learning models of erroneous driver actions at novel interchange configurations, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. 1-6. </a><br/><br/>
+<a href="https://ieeexplore.ieee.org/document/9980657" target="_blank"><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D., Sabahi, S., Cunningham, C, and Pyo, K. (2022). Machine learning models of erroneous driver actions at novel interchange configurations.<i>IEEE International Conference on Human-Machine Systems</i>, pp. 1-6. </a><br/><br/>
 
-<a href="https://openaccess.cms-conferences.org/#/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C2]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage, <i>13th International Conference on Applied Human Factors and Ergonomics (AHFE)</i>, 2022; 60: 287-296. </a><br/><br/>
+<a href="https://openaccess.cms-conferences.org/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C2]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. (2022). Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>International Conference on Applied Human Factors and Ergonomics</i>, Vol. 60: 287-296. </a><br/><br/>
 
-<a href="https://ieeexplore.ieee.org/document/9582630" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b> and Kaber, D. B. Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation, <i>2021 IEEE 2nd International Conference on Human-Machine Systems (ICHMS)</i>, 2021, pp. 1-6.</a><br/><br/>
+<a href="https://ieeexplore.ieee.org/document/9582630" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b> and Kaber, D. (2021). Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation. <i> IEEE International Conference on Human-Machine Systems</i>, pp. 1-6.</a><br/><br/>
 
-<a href="https://ieeexplore.ieee.org/document/9980676" target="_blank"><b>[C4]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Matthew, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M.. Cognitive workload classification of upper-limb prosthetic devices, <i>2022 IEEE 3rd International Conference on Human-Machine Systems (ICHMS)</i>, 2022, pp. 1-6. </a><br/><br/>
+<a href="https://ieeexplore.ieee.org/document/9980676" target="_blank"><b>[C4]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Matthew, A., Huang, H., Kaber, D. B., Ruiz, J., and Zahabi, M. (2022). Cognitive workload classification of upper-limb prosthetic devices. <i>IEEE International Conference on Human-Machine Systems</i>, pp. 1-6. </a><br/><br/>
 
-<a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. B. and Feng, J.. Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 2020; 64(1):1960-1964.</a><br/><br/>
+<a href="https://journals.sagepub.com/doi/10.1177/1071181320641472" target="_blank"><b>[C5]</b>. Cauffman, S.J., Deng, Y., <b>Liu, Y.</b>, Cunningham, C., Kaber, D. and Feng, J. (2020). Driver logo sign detection and hazard responses during partially automated driving. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 64(1):1960-1964.</a><br/><br/>
 
-<b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (Submitted). Cognitive Workload and Usability of Virtual Reality Simulation for Prosthesis Training <i> 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>.<br/><br/>
+<b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (2023). Cognitive workload and usability of virtual reality simulation for prosthesis training. <i> IEEE International Conference on Systems, Man, and Cybernetics</i>. Accepted. <br/><br/>
 
 ## Refereed Research Report (published)
-<a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., & <B>Liu, Y.</b> (2022). "Roadway signing and marking of unconventional grade separated intersection designs." Project Report. <i>[North Carolina Department of Transportation (NC DOT)]</i>.</a><br/><br/>
-<b>[R2]</b>. Cunningham, C. M., Chase, R. T., Yang, G., Wright, W., Pyo, K., Kaber, D., & <B>Liu, Y.</b> (in process). "Design consistency on corridors" Project Report. <i>[NC DOT]</i>.<br/><br/>
+<a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. R1.	Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., and <B>Liu, Y.</b> (2022). Roadway signing and marking of unconventional grade separated intersection designs. Report No. FHWA/NC/2019-26, <i>North Carolina Department of Transportation</i>. Raleigh.</a><br/><br/>
+<b>[R2]</b>. Cunningham, C. M., Chase, R. T., Yang, G., Wright, W., Pyo, K., Kaber, D., & <B>Liu, Y.</b> (2023). Design consistency on corridors. Report No. FHWA/NC/2020-31, <i>North Carolina Department of Transportation</i>. Raleigh.<br/><br/>
 
 <h1 align="center">PRESENTATIONS</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
@@ -51,18 +49,16 @@ title: Publications
 
 <br/>
 
-## Conference Presentations 
-<b>[1]</b>. Machine learning models of erroneous driver actions at novel interchange configurations. <i>IEEE 3rd ICHMS (November 2022), </i>Orlando, FL.<br/><br/>
-<b>[2]</b>. Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>13th International Conference on AHFE (July 2022), </i>New York, NY.<br/><br/>
-<b>[3]</b>. User equilibrium model considering traveler decision inertia under random demand network. <i>Behavioral Operations Management 13th Annual Meeting (2018), </i>Guangzhou, China.<br/><br/>
+<b>[1]</b>. <b>Liu, Y. (Presenter),</b> Kaber, D., Sabahi, S., Cunningham, C, and Pyo, K. (2022). Machine learning models of erroneous driver actions at novel interchange configurations. <i>Oral presentation given at the IEEE 3rd International Conference on Human-Machine Systems, </i>Orlando, FL. November.<br/><br/>
+<b>[2]</b>. <b>Liu, Y. (Presenter),</b> Pyo, K., Cunningham, C., Chase, T. and Kaber, D. (2022). Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>Oral presentation given at the 13th International Conference on Applied Human Factors and Ergonomics,</i>New York, NY. July.<br/><br/>
+<b>[3]</b>. <b>Liu, Y. </b> and Kaber, D. (Presenter) (2021). Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation. <i>Oral presentation given at the IEEE 2nd International Conference on Human-Machine Systems, </i>Magdeburg, Germany. September.<br/><br/>
+<b>[4]</b>. <b>Liu, Y. (Presenter),</b> Pyo, K., Cunningham, C., Chase, T. and Kaber, D. (2023). Roadway signing and marking of unconventional grade separated intersection designs. <i>Poster presentation given at the North Carolina Department of Transportation 4th Annual Research & Innovation Summit, </i>Raleigh, NC. March.<br/><br/>
+<b>[5]</b>. <b>Liu, Y. (Presenter),</b> Yang, G., Pyo, K., Wright, W. Chase, T. Cunningham, C., and Kaber, D. (2023). Design consistency on corridors. <i>Poster presentation given at the North Carolina Department of Transportation 4th Annual Research & Innovation Summit, </i>Raleigh, NC. March.<br/><br/>
+<b>[6]</b>. Park, J. (Presenter), Berman, J., Dodson, A., <b>Liu, Y. </b>, Matthew, A., Huang, H., Kaber, D, Ruiz, J., and Zahabi, M. (2022). Cognitive workload classification of upper-limb prosthetic devices. <i>Oral presentation given at the IEEE 3rd International Conference on Human-Machine Systems, </i>Orlando, FL. November.<br/><br/>
+<b>[7]</b>. 7.	Cauffman, S.J. (Presenter), Deng, Y., <b>Liu, Y. </b>, Cunningham, C., Kaber, D. and Feng, J. (2020). Driver logo sign detection and hazard responses during partially automated driving. <i>Oral presentation given at the 64th International Annual Meeting of the Human Factors and Ergonomics Society, </i>Virtual. October.<br/><br/>
+<b>[8]</b>. Park, J. (Presenter), Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y. </b>, Ruiz, J., Huang, H., Kaber, D., and Zahabi, M. (2023). Cognitive workload and usability of virtual reality simulation for prosthesis training. <i>Oral presentation will be given at the IEEE International Conference on Systems, Man, and Cybernetics, </i>Hawaii, October. <br/><br/>
+
 
 ## Poster Presentations 
-
-<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b>[4]</b>. Roadway signing and marking of unconventional grade separated intersection designs. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
-
 <img src="/assets/images/banners/Poster_GSIX.png"/><br/><br/>
-
-
-<a href="https://sites.google.com/ncsu.edu/ncdot-summit/agenda/poster-presentations?authuser=0" target="_blank"><b>[5]</b>. Design consistency on corridors. <i>NC DOT 4th Annual Research & Innovation Summit (March 2023), </i>Raleigh, NC.</a><br/><br/>
-
 <img src="/assets/images/banners/Poster_DC.png"/>
