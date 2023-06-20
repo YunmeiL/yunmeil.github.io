@@ -27,6 +27,8 @@ title: News
 
 + <font size=3><a href="https://www.ise.ufl.edu/blog/2022/04/david-kaber-ph-d-and-team-use-augmented-reality-to-aid-in-extreme-operational-tasks/?" target="_blank">Got involved in DARPA project to use augmented reality to aid in extreme operational tasks</a> [April, 2022] <br/><br/>
 
+<img src="/assets/images/banners/IMG_5380.jpeg"/><br/><br/>
+
 
 
 
