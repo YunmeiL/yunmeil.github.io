@@ -15,12 +15,11 @@ title: Publications
 ## Refereed Journal Papers (under review/revision) 
 <b>[3]</b>. <b>Liu, Y.</b> & Kaber, D. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
 <b>[4]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (in 2nd review). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
-<b>[5]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i>. <br/><br/>
-<b>[6]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D. (in 2nd review). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i>.<br/><br/>
+<b>[5]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (in 1st review). Analysis of driver behavior at grade-separated intersections to support design. Submitted to <i>Applied Ergonomics</i>.<br/><br/>
+<b>[6]</b>. Lau, M., <b>Liu, Y.</b> & Kaber, D. (in 2nd review). A consequence severity-probability importance measure for fault tree analysis. Submitted to <i>IEEE Transactions on Reliability Engineering</i>. <br/><br/>
+<b>[7]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D. (in 2nd review). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>Int. J. of Human Computer Studies</i>.<br/><br/>
 
 ## Refereed Journal Papers (in preparation) 
-
-<b>[7]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (about to submit) Analysis of driver behavior at grade-separated intersections to support design. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
 <b>[8]</b>. <b>Liu, Y.</b>, Yang, G., Pyo, K., Cunningham, C., Chase, T., Kaber, D.. Design consistency. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
 <b>[9]</b>. <b>Liu, Y.</b> and Kaber, D.. Validity assessment for a SA response function in level of automation. Target journal: <i>Human Factors</i>.<br/><br/>
 <b>[10]</b>. <b>Liu, Y.</b> and Kaber, D.. Effects of driver experience and level of vehicle automation on SA, workload and performance. Target journal: <i>Applied Ergonomics</i>.<br/><br/>
