@@ -51,10 +51,10 @@ title: Publications
 
 <b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (2023). Cognitive workload and usability of virtual reality simulation for prosthesis training. <i> IEEE International Conference on Systems, Man, and Cybernetics</i>. Accepted. <br/><br/>
 
-<b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). A unified framework of Riemannian classifiers for SPD neural networks. <i> International Conference on Learning Representations (ICLR)</i>. Submitted. <br/><br/>
+<b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). A unified framework of Riemannian classifiers for SPD neural networks. <i> International Conference on Learning Representations (ICLR)</i>. To be submitted. <br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
-<b>[C8]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). ). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. About to submit. <br/><br/>
+<b>[C8]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). ). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
 
 ## Refereed Research Report (published)
 <a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., and <B>Liu, Y.</b> (2022). Roadway signing and marking of unconventional grade separated intersection designs. Report No. FHWA/NC/2019-26, <i>North Carolina Department of Transportation</i>. Raleigh.</a><br/><br/>
