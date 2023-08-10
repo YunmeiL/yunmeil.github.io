@@ -15,7 +15,7 @@ title: Publications
 
 <a href="https://doi.org/10.1007/978-3-031-32633-2_6" target="_blank"><b>[3]</b>. Kaber, D., <b>Liu, Y.</b> & Lau, M. Y. (2023). Considering severity of safety-critical system outcomes in risk analysis: an extension of fault-tree analysis. In: Le Coze, JC., Antonsen, S. (eds) Safety in the Digital Age. <i>SpringerBriefs in Applied Sciences and Technology. </i> Springer, Cham. DOI: 10.1007/978-3-031-32633-2_6.</a><br/><br/>
 
-## Refereed Journal Papers (under review/revision) 
+## Submitted Refereed Journal Articles
 
 <b>[4]</b>. <b>Liu, Y.</b> & Kaber, D. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. <br/><br/>
 
@@ -25,7 +25,7 @@ title: Publications
 
 <b>[7]</b>. Zhang, W., <b>Liu, Y.</b>  & Kaber, D. (in 2nd review). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>International Journal of Human Computer Studies</i>.<br/><br/>
 
-## Refereed Journal Papers (in preparation) 
+## In-Preparation Refereed Journal Articles
 <b>[8]</b>. <b>Liu, Y.</b>, Delgado, D., Park, J., Music, A., Berman, J., Kaber, D., Ruiz, J., Huang, H., and Zahabi, M.. Virtual Reality (VR) in the early phase design of EMG-based upper-limb prosthetics. Submitted to <i>Ergonomics</i>. <br/><br/>
 
 <b>[9]</b>. Park, J., <b>Liu, Y.</b>, Delgado, D., Music, A., Berman, J., Kaber, D., Ruiz, J., Huang, H., and Zahabi, M.. A evaluation of EMG-based upper-limb prosthetic control modes: Virtual Reality vs. physical devices. Submitted to <i>Applied Ergonomics</i>. <br/><br/>
@@ -38,7 +38,7 @@ title: Publications
 
 <b>[13]</b>. <b>Liu, Y.</b>, Grimaldi, N. S., Wozniak, D., Chen, E., Zahabi, M., and Kaber, D.. Integration of cognitive workload modeling and physiological responses for real-time user state classification. Target journal: <i>IEEE Transactions on Human-Machine Systems</i>.<br/><br/>
 
-## Refereed Conference Papers (published in proceeding)
+## Refereed Conference Proceedings
 <a href="https://ieeexplore.ieee.org/document/9980657" target="_blank"><b>[C1]</b>. <b>Liu, Y.</b>, Kaber, D., Sabahi, S., Cunningham, C, and Pyo, K. (2022). Machine learning models of erroneous driver actions at novel interchange configurations.<i>IEEE International Conference on Human-Machine Systems</i>, pp. 1-6. </a><br/><br/>
 
 <a href="https://openaccess.cms-conferences.org/publications/book/978-1-958651-36-0/article/978-1-958651-36-0_32" target="_blank"><b>[C2]</b>. <b>Liu, Y.</b>, Pyo, K., Cunningham, C., Chase, T. and Kaber, D. (2022). Driver situation awareness and cognitive workload effects of novel interchange configurations and associated signage. <i>International Conference on Applied Human Factors and Ergonomics</i>, Vol. 60: 287-296. </a><br/><br/>
