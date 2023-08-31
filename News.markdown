@@ -9,6 +9,7 @@ title: News
 ---
 
 <br/>
++ <font size=3>Led the UF HFES Student Chapter team to win the <b>Bronze Award</b> in the 2023 HFES Student Chapter recognition.[August, 2023] <br/><br/>
 
 + <font size=3><a href="https://www.ise.ufl.edu/awards/departmental-awards/?" target="_blank">Received the <i>2023 Linda Parker Hudson Graduate Fellowship</i> award from ISE Department - University of Florida ($2,500)</a> [March, 2023] <br/><br/>
 
