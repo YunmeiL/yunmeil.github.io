@@ -51,10 +51,16 @@ title: Publications
 
 <b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (2023). Cognitive workload and usability of virtual reality simulation for prosthesis training. <i> IEEE International Conference on Systems, Man, and Cybernetics</i>. Accepted. <br/><br/>
 
-<b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). Intrinsic Riemannian classifiers on SPD manifolds: a unified framework. <i> International Conference on Learning Representations (ICLR)</i>. To be submitted. <br/><br/>
+
+<b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). Intrinsic Riemannian classifiers on SPD manifolds: a unified framework. <i> International Conference on Learning Representations (ICLR)</i>. Under Review. <br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
-<b>[C8]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). ). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
+<b>[C8]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, and Sebe, N. (2024). A Lie Group Approach to Riemannian Normalization for SPD Neural Networks. <i> ICLR </i>. Under review. <br/><br/>
+            - <i> Top Conference in Machine Learning </i> <br/><br/>
+
+<b>[C9]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
+
+<b>[C10]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
 
 ## Refereed Research Report (published)
 <a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., and <B>Liu, Y.</b> (2022). Roadway signing and marking of unconventional grade separated intersection designs. Report No. FHWA/NC/2019-26, <i>North Carolina Department of Transportation</i>. Raleigh.</a><br/><br/>
