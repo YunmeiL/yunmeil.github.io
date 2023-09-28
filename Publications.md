@@ -11,7 +11,7 @@ title: Publications
 ## Refereed Journal Articles
 <b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision Submitted (August 2023).<br/><br/>
 
-<b>[2]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>. Accepted.<br/><br/>
+<a href="https://doi.org/10.1007/s13198-023-02162-1" target="_blank"><b>[2]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>, DOI: 10.1007/s13198-023-02162-1.</a><br/><br/>
 
 <a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[3]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
 
