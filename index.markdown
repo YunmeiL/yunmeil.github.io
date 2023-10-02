@@ -96,18 +96,6 @@ My research covers a range of application areas including transportation, medica
 
 <b>Click <a href="/assets/images/banners/Update_CV_YL_0928.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/>
 
-<br/> 
-<style>
-img.visit-tracker {
-  float: left;
-  margin-left: 20px;
-  height: 250px; /* Set the height as required */
-}
-</style>
-
-<a href="https://clustrmaps.com/site/1bwrx" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3W4pPMZqPb9nCSSxEQxL9bDwrCfcMUhmw1Nxnxl3Ok8&cl=ffffff" class="visit-tracker" /></a>
-
-
 
 </font>
  </p>
