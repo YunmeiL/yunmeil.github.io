@@ -9,17 +9,17 @@ title: Publications
 <br/>
 
 ## Refereed Journal Articles
-<b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision Submitted (August 2023).<br/><br/>
+<b>[1]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
 
-<a href="https://doi.org/10.1007/s13198-023-02162-1" target="_blank"><b>[2]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>, DOI: 10.1007/s13198-023-02162-1.</a><br/><br/>
+<b>[2]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (August 2023).<br/><br/>
 
-<a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[3]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
+<a href="https://doi.org/10.1007/s13198-023-02162-1" target="_blank"><b>[3]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>, DOI: 10.1007/s13198-023-02162-1.</a><br/><br/>
 
-<a href="https://doi.org/10.1007/978-3-031-32633-2_6" target="_blank"><b>[4]</b>. Kaber, D., <b>Liu, Y.</b> and Lau, M. Y. (2023). Considering severity of safety-critical system outcomes in risk analysis: an extension of fault-tree analysis. In: Le Coze, JC., Antonsen, S. (eds) Safety in the Digital Age. <i>SpringerBriefs in Applied Sciences and Technology. </i> Springer, Cham. DOI: 10.1007/978-3-031-32633-2_6.</a><br/><br/>
+<a href="https://doi.org/10.1080/00140139.2023.2221413" target="_blank"><b>[4]</b>. Park, J., Berman, J., Dodson, A., <b>Liu, Y.</b>, Armstrong, M., Huang, H., Kaber, D., Ruiz, J., and Zahabi, M.(2023). Assessing workload in using electromyography (EMG)-based prostheses, <i>Ergonomics</i>, DOI: 10.1080/00140139.2023.2221413.</a><br/><br/>
+
+<a href="https://doi.org/10.1007/978-3-031-32633-2_6" target="_blank"><b>[5]</b>. Kaber, D., <b>Liu, Y.</b> and Lau, M. Y. (2023). Considering severity of safety-critical system outcomes in risk analysis: an extension of fault-tree analysis. In: Le Coze, JC., Antonsen, S. (eds) Safety in the Digital Age. <i>SpringerBriefs in Applied Sciences and Technology. </i> Springer, Cham. DOI: 10.1007/978-3-031-32633-2_6.</a><br/><br/>
 
 ## Submitted Refereed Journal Articles
-
-<b>[5]</b>. <b>Liu, Y.</b> and Kaber, D. (in 2nd review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. <br/><br/>
 
 <b>[6]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (in 2nd review). Analysis of driver behavior at grade-separated intersections to support design. Submitted to <i>Applied Ergonomics</i>.<br/><br/>
 
@@ -58,9 +58,9 @@ title: Publications
 <b>[C8]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, and Sebe, N. (2024). A Lie Group Approach to Riemannian Normalization for SPD Neural Networks. <i> ICLR </i>. Under review. <br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
-<b>[C9]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
+<b>[C9]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. Submitted. <br/><br/>
 
-<b>[C10]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. To be submitted. <br/><br/>
+<b>[C10]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. Submitted. <br/><br/>
 
 ## Refereed Research Report (published)
 <a href="https://connect.ncdot.gov/projects/research/RNAProjDocs/RP2019-26%20Final%20Report.pdf" target="_blank"><b>[R1]</b>. Cunningham, C. M., Chase, R. T., Pyo, K., Kaber, D., and <B>Liu, Y.</b> (2022). Roadway signing and marking of unconventional grade separated intersection designs. Report No. FHWA/NC/2019-26, <i>North Carolina Department of Transportation</i>. Raleigh.</a><br/><br/>
