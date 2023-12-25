@@ -144,7 +144,7 @@ header_pages:
 defaults:
   home:
     heading: "Yunmei Liu"
-    subheading: "Ph.D. Candidate at University of Florida (On The Job Market)"
+    subheading: "Ph.D. Candidate at University of Florida"
     banner: 
       image: "assets/images/banners/IMG4.jpeg"
       height: "250px"
