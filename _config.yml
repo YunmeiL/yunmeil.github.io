@@ -130,7 +130,7 @@ yat:
 header_pages:
   - index.md
   - About.md
-  # - Projects.html
+  - Projects.html
   - Publications.html
   - News.html
   # - Contact.html
