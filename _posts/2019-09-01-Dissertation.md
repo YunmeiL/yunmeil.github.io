@@ -34,8 +34,8 @@ In order to verify the effectiveness of the automation rate model and its relati
 
 #### Submitted paper 
 
-<b>[2]</b>. <b>Liu, Y.</b> & Kaber, D. B. (in review). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to IEEE Transactions on Human-Machine Systems (12/31/21).<br/><br/>
-<a href="https://ieeexplore.ieee.org/document/9582630" target="_blank"><b>[C4]</b>. <b>Liu, Y.</b>. and Kaber, D. Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation, 2021 IEEE 2nd International Conference on Human-Machine Systems (ICHMS), 2021, pp. 1-6.</a>
+<b>[2]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
+<a href="https://ieeexplore.ieee.org/document/9582630" target="_blank"><b>[C3]</b>. <b>Liu, Y.</b> and Kaber, D. (2021). Quantitative models for automation rate and situation awareness response: A case study of levels of driving automation. <i> IEEE International Conference on Human-Machine Systems</i>, pp. 1-6.</a><br/><br/>
 
 
 <!-- ### 1.3 Demo video -->
