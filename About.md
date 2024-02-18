@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: Contact
 ---
 
 <h1 align="center">CONTACT</h1>
@@ -19,6 +19,10 @@ img  {
   margin-left: 20px;
 }
 </style>
+
+
+<img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
+ <p style="text-align:justify; text-justify:inter-ideograph;">
 
 
 <!-- <h1 align="center">ABOUT</h1> -->

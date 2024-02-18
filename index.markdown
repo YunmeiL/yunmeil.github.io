@@ -9,16 +9,16 @@ layout: home
 ---
 
 <br/> 
-<style>
+<!-- <style>
 img  {
   float: right;
   margin-left: 20px;
 }
-</style>
+</style> -->
 
 
-<img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
- <p style="text-align:justify; text-justify:inter-ideograph;">
+<!-- <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
+ <p style="text-align:justify; text-justify:inter-ideograph;"> -->
 <font size=3>Hi! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, I am also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.
 
 
