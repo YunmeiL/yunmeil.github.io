@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Contact
+title: Lab
 ---
 
-<h1 align="center">CONTACT</h1>
+<h1 align="center">LAB</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 
 <!-- <div style="float:left;">Address: 401 Weil Hall, P.O. Box 116595, Gainesville, FL 32611</div>

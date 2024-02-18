@@ -129,7 +129,7 @@ yat:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.md
-  - Contact.md
+  - Lab.md
   - Projects.html
   - Publications.html
   - News.html
@@ -145,6 +145,7 @@ defaults:
   home:
     heading: "Dr. Yunmei Liu"
     subheading: "Assistant Professor at University of Louisville"
+    subheading: "Human-Centric AI Director"
     banner: 
       image: "assets/images/banners/IMG4.jpeg"
       height: "250px"

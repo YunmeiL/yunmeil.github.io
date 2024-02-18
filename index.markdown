@@ -73,13 +73,13 @@ img  {
 
      <ul>
 
-         <li>Ph.D., Industrial and Systems Engineering, University of Florida, 2023</li>
+         <li><b>Ph.D.,</b> Industrial and Systems Engineering, University of Florida, 2023</li>
 
-         <li>Ph.D. Minor, Statistics, University of Florida, 2023</li>
+         <li><b>Ph.D. Minor,</b> Statistics, University of Florida, 2023</li>
 
-         <li>M.S., Management Science and Engineering, Nanjing University, 2019</li>
+         <li><b>M.S.,</b> Management Science and Engineering, Nanjing University, 2019</li>
 
-         <li>B.S., Industrial Engineering, Shandong University, 2016</li>
+         <li><b>B.S.,</b> Industrial Engineering, Shandong University, 2016</li>
 
      </ul>
 
@@ -131,7 +131,7 @@ img  {
 
      <ul>
 
-        <li><b>Reviewer:</b> IEEE Transactions on Human-Machine Systems, Human Factors, Applied Ergonomics, Cognition, Technology and Work, 3rd International Conference on Human-Machine Systems</li>
+        <li><b>Reviewer:</b> <i>IEEE Transactions on Human-Machine Systems, Human Factors, Applied Ergonomics, Cognition, Technology and Work, 3rd International Conference on Human-Machine Systems</i></li>
     
 
      </ul> 
