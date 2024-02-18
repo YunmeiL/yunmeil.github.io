@@ -38,7 +38,7 @@ Louisville, KY, 40292<br/><br/>
 <b>Emmail:</b> yunmei.liu@louisville.edu<br/><br/>
 <b>Phone:</b> 502-852-8858 <br/><br/>
 
-
+</p> 
 
 <!-- After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my Ph.D. studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/> -->
 

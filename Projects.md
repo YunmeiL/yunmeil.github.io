@@ -2,7 +2,7 @@
 layout: home
 title: PROJECTS
 ---
-<h1 align="center">PROJECTS</h1>
+<h1 align="center">CURRENT PROJECTS</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 ---
 
@@ -44,6 +44,7 @@ img  {
 </font>
 </p>
 
+<h1 align="center">PAST PROJECTS</h1>
 
 ## 3. EMG-based Assistive Human-Machine Interface Design 
 
