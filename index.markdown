@@ -19,7 +19,7 @@ img  {
 
 <!-- <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
  <p style="text-align:justify; text-justify:inter-ideograph;"> -->
-<font size=3>Hi! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, I am also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.<br/><br/> <br/>  
+<font size=3>Hi! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, I am also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.<br/><br/>
 
 
 <html>
@@ -113,7 +113,28 @@ img  {
  
 
      </ul>
+    <h3>Teaching Experience:</h3>
 
+     <!-- Create an Unordered List -->
+
+     <ul>
+
+        <li>IE 360 - Probability and Statistics for Engineers (Undergraduate Level), University of Louisville, Spring 2024</li>
+        <li>IE 560 - Probability and Statistics for Engineers (Graduate Level), University of Louisville, Spring 2024</li>
+        <li>ESI 6553 - Systems Management, University of Florida, Summer 2021-2023</li>
+ 
+
+     </ul> 
+    <h3>Community Services:</h3>
+
+     <!-- Create an Unordered List -->
+
+     <ul>
+
+        <li><b>Reviewer:</b> IEEE Transactions on Human-Machine Systems, Human Factors, Applied Ergonomics, Cognition, Technology and Work, 3rd International Conference on Human-Machine Systems</li>
+    
+
+     </ul> 
    </body>
 
 </html>
