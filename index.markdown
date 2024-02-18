@@ -19,7 +19,7 @@ img  {
 
 <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-<font size=3>Dr. Liu is a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, she is also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.
+<font size=3>Hi! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, I am also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.
 
 
 <html>
@@ -69,7 +69,7 @@ img  {
 
      <h3>Educational Background:</h3>
 
-     <!-- Create an Unordered List -->
+     #Create an Unordered List
 
      <ul>
 
@@ -81,21 +81,36 @@ img  {
 
          <li>B.S., Industrial Engineering, Shandong University - 2016</li>
 
+     </ul>
+
+   <!-- </body>
+
+
+   <body> -->
+
+     <h3>Research Interests:</h3>
+
+
+     <ul>
+
+        Human factors, human-automation interaction, quantitative modeling, cognitive modeling, human behavior modeling, wearable technology, data analytics, statistics, machine learning, deep learning 
 
      </ul>
 
-   </body>
-
-
-   <body>
-
-     <h3>Research Interests:</h3>
+    <h3>Awards & Honors:</h3>
 
      <!-- Create an Unordered List -->
 
      <ul>
 
-        Human factors, human-automation interaction, quantitative modeling, cognitive modeling, human behavior modeling, wearable technology, data analytics, statistics, machine learning, deep learning 
+        •	Linda Parker Hudson Graduate Fellowship Award ($2,500), University of Florida, 2023
+        •	Harold D. Haldeman, Jr. Fellowship Award ($2,000), University of Florida, 2022
+        •	Certificates of Outstanding Achievement, University of Florida, 2022
+        •	Academic Scholarship ($1,200), Nanjing University, 2016, 2017, 2018
+        •	Excellent Student Fellowship Award, Shandong University, 2013, 2014, 2015
+        •	Outstanding Undergraduate Graduation Thesis, Shandong University, 2016
+        •	The Most Outstanding Student at Shandong University, Shandong University, 2015
+ 
 
      </ul>
 
