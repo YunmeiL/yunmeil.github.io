@@ -75,7 +75,7 @@ img  {
 
          <li>Ph.D., Industrial and Systems Engineering, University of Florida - 2023</li>
 
-         <li>Ph.D. Minor,Statistics, University of Florida - 2023</li>
+         <li>Ph.D. Minor, Statistics, University of Florida - 2023</li>
 
          <li>M.S., Management Science and Engineering, Nanjing University - 2019</li>
 
@@ -86,21 +86,16 @@ img  {
 
    </body>
 
-      </head>
 
    <body>
 
-     <h3>Some of my specific research interests include:</h3>
+     <h3>Research Interests:</h3>
 
      <!-- Create an Unordered List -->
 
      <ul>
 
-         <li>Improving assistive technology design</li>
-         <li>Predicting human cognitive or physical states</li>
-         <li>Modeling human-automation interaction and human performance</li>
-         <li>Addressing human factors in surface transportation</li>
-         <li>Developing new analytical methods for systems safety</li>
+        Human factors, human-automation interaction, quantitative modeling, cognitive modeling, human behavior modeling, wearable technology, data analytics, statistics, machine learning, deep learning 
 
      </ul>
 
