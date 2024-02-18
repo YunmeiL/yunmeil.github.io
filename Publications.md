@@ -9,7 +9,7 @@ title: Publications
 <br/>
 
 ## Refereed Journal Articles
-<b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Accepted (January 2024).<br/><br/>
+<a href="/assets/images/banners/NSF1_water.pdf"><b><b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Accepted (January 2024).</a><br/><br/>
 
 <b>[2]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
 
@@ -52,15 +52,15 @@ title: Publications
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10394286" target="_blank"><b>[C6]</b>. Park, J., Music, A., Daniel, D., Berman, J., Dodson, A., <b>Liu, Y.</b>, Ruiz, J., Huang, H., Kaber, D. B., and Zahabi, M. (2023). Cognitive workload and usability of virtual reality simulation for prosthesis training. <i> IEEE International Conference on Systems, Man, and Cybernetics</i>. pp. 1567-1572.</a><br/><br/>
 
 
-<a href="https://openreview.net/pdf?id=okYdj8Ysru" target="_blank"><b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, and Sebe, N. (2024). A Lie Group Approach to Riemannian Batch Normalization. <i> ICLR </i>. Under review. Accepted.</a><br/><br/>
+<a href="https://openreview.net/pdf?id=okYdj8Ysru" target="_blank"><b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, and Sebe, N. (2024). A Lie Group Approach to Riemannian Batch Normalization. <i> ICLR </i>. Accepted.</a><br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
-<a href="/assets/images/banners/paper_77.pdf"> <b>[C8]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
+<a href="/assets/images/banners/paper_77_water.pdf"> <b>[C8]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
 
 
-<a href="/assets/images/banners/paper_74.pdf"><b>[C9]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
+<a href="/assets/images/banners/paper_74_water.pdf"><b>[C9]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
 
-<b>[C10]</b>. Chen, Z., Song, Y., Rui, W., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). Intrinsic Riemannian classifiers on SPD manifolds: a unified framework. <i> International Conference on Learning Representations (ICLR)</i>. Submitted. <br/><br/>
+<b>[C10]</b>. Chen, Z., Song, Y., Rui, W., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). Intrinsic Riemannian classifiers on SPD manifolds: a unified framework. <i> International Conference on Machine Learning (ICML)</i>. Submitted. <br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
 ## Refereed Research Report (published)
