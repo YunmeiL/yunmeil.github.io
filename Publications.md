@@ -9,7 +9,7 @@ title: Publications
 <br/>
 
 ## Refereed Journal Articles
-<a href="/assets/images/banners/NSF1_water.pdf"><b><b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Accepted (January 2024).</a><br/><br/>
+<a href="/assets/images/banners/NSF1_water.pdf"><b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Accepted (January 2024).</a><br/><br/>
 
 <b>[2]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
 

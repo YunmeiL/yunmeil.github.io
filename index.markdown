@@ -4,7 +4,7 @@
 #IMG_3204
 layout: home
 ---
-<h1 align="center">About Me</h1>
+<h1 align="center">HOME</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 ---
 

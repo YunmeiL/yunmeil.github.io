@@ -3,7 +3,7 @@ layout: home
 title: About
 ---
 
-<h1 align="center">ABOUT</h1>
+<h1 align="center">CONTACT</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 
 <!-- <div style="float:left;">Address: 401 Weil Hall, P.O. Box 116595, Gainesville, FL 32611</div>
@@ -22,29 +22,36 @@ img  {
 
 
 <!-- <h1 align="center">ABOUT</h1> -->
+<h2 align="left">Mailing Address</h2>
  <p style="text-align:justify; text-justify:inter-ideograph;">
 <font size=3>
 
+University of Louisville<br/><br/>
+Department of Industrial Engineering<br/><br/>
+132 Eastern Pkey, JS 309<br/><br/>
+Louisville, KY, 40292<br/><br/>
 
-Hi there! My name is Yunmei and I'm originally from Yantai, China, a place known for its delicious apples and cherries. <br/><br/>
+<b>Emmail:</b> yunmei.liu@louisville.edu<br/><br/>
+<b>Phone:</b> 502-852-8858 <br/><br/>
 
-After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my Ph.D. studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/>
 
-<p>When I'm not busy with research, I enjoy practicing yoga and cooking. My friends say I'm a pro at making Chinese food, but I'm still learning and getting better every day. In my spare time, I also love to try new recipes and experiment with different flavors. Thanks for getting to know me! &#128516;</p>
+
+<!-- After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my Ph.D. studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/> -->
+
+<!-- <p>When I'm not busy with research, I enjoy practicing yoga and cooking. My friends say I'm a pro at making Chinese food, but I'm still learning and getting better every day. In my spare time, I also love to try new recipes and experiment with different flavors. Thanks for getting to know me! &#128516;</p> -->
 
 <br/><br/>
            
 <!-- <b>Click <a href="/assets/images/banners/Update_CV_YL_0213.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/> -->
 </font>
-<h2 align="left">My hometown map</h2>
-<!-- <img height='450' align="right" src="assets/images/banners/map.png"/>
- <p style="text-align:justify; text-justify:inter-ideograph;">
- </p> -->
- <iframe align='center' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232810.75803524477!2d121.22286534798666!3d37.46605526992239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35906384d74b95c5%3A0x4ec649d60d6074d5!2sYantai%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1662313195864!5m2!1sen!2sus" width="925" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+ <!-- Show map -->
+ <!-- <iframe align='center' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232810.75803524477!2d121.22286534798666!3d37.46605526992239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35906384d74b95c5%3A0x4ec649d60d6074d5!2sYantai%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1662313195864!5m2!1sen!2sus" width="925" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
 <br/>
 <body><a href="https://clustrmaps.com/site/1bwrx"  title="Visit tracker"><img height='1' align="right" src="//www.clustrmaps.com/map_v2.png?d=3W4pPMZqPb9nCSSxEQxL9bDwrCfcMUhmw1Nxnxl3Ok8&cl=ffffff" /></a></body>
-
+ -->
 
 
 
