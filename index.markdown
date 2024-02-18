@@ -69,17 +69,17 @@ img  {
 
      <h3>Educational Background:</h3>
 
-     #Create an Unordered List
+     <!-- Create an Unordered List -->
 
      <ul>
 
-         <li>Ph.D., Industrial and Systems Engineering, University of Florida - 2023</li>
+         <li>Ph.D., Industrial and Systems Engineering, University of Florida, 2023</li>
 
-         <li>Ph.D. Minor, Statistics, University of Florida - 2023</li>
+         <li>Ph.D. Minor, Statistics, University of Florida, 2023</li>
 
-         <li>M.S., Management Science and Engineering, Nanjing University - 2019</li>
+         <li>M.S., Management Science and Engineering, Nanjing University, 2019</li>
 
-         <li>B.S., Industrial Engineering, Shandong University - 2016</li>
+         <li>B.S., Industrial Engineering, Shandong University, 2016</li>
 
      </ul>
 
@@ -103,13 +103,13 @@ img  {
 
      <ul>
 
-        •	Linda Parker Hudson Graduate Fellowship Award ($2,500), University of Florida, 2023
-        •	Harold D. Haldeman, Jr. Fellowship Award ($2,000), University of Florida, 2022
-        •	Certificates of Outstanding Achievement, University of Florida, 2022
-        •	Academic Scholarship ($1,200), Nanjing University, 2016, 2017, 2018
-        •	Excellent Student Fellowship Award, Shandong University, 2013, 2014, 2015
-        •	Outstanding Undergraduate Graduation Thesis, Shandong University, 2016
-        •	The Most Outstanding Student at Shandong University, Shandong University, 2015
+        <li>Linda Parker Hudson Graduate Fellowship Award ($2,500), University of Florida, 2023</li>
+        <li>Harold D. Haldeman, Jr. Fellowship Award ($2,000), University of Florida, 2022</li>
+        <li>Certificates of Outstanding Achievement, University of Florida, 2022</li>
+        <li>Academic Scholarship ($1,200), Nanjing University, 2016, 2017, 2018</li>
+        <li>Excellent Student Fellowship Award, Shandong University, 2013, 2014, 2015</li>
+        <li>Outstanding Undergraduate Graduation Thesis, Shandong University, 2016</li>
+        <li>The Most Outstanding Student at Shandong University, Shandong University, 2015</li>
  
 
      </ul>
