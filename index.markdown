@@ -4,7 +4,7 @@
 #IMG_3204
 layout: home
 ---
-<h1 align="center">HOME</h1>
+<h1 align="center">About Me</h1>
 <!-- <div align='center'><font size='60'>Projects</font></div> -->
 ---
 
@@ -19,10 +19,7 @@ img  {
 
 <img height='450' align="right" src="assets/images/banners/IMG_3204.jpeg"/> 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-<font size=3>Hi! I'm currently a Ph.D. Candidate at the <a href="https://www.ufl.edu" target="_blank">University of Florida</a> in the  <a href="https://www.ise.ufl.edu" target="_blank">Department of Industrial and Systems Engineering</a>, where I am fortunate to be advised by <a href="https://www.ise.ufl.edu/kaber/" target="_blank">Dr. David Kaber</a>. I'm also minoring in Statistics and expect to complete my degree in <i>December 2023</i>.<br/>
-
-As a researcher, I'm interested in using theories and principles of human factors in systems design and systems engineering to analyze, model, and develop various human-in-the-loop systems in order to make them safer and more efficient. <br/>
-
+<font size=3>Hi! I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/industrial/" target="_blank">Industrial Engineering Department</a> at the <a href="https://louisville.edu/" target="_blank">University of Louisville</a>. In addition, I am also a Theme Director for Human-Centric AI at the <a href="https://engineering.louisville.edu/research/centersinstitutes/human-systems-engineering/" target="_blank">Center for Human Systems Engineering (CHSE)</a>, enriching the center's focus on integrating AI and human factors.
 
 
 <html>
@@ -70,20 +67,39 @@ As a researcher, I'm interested in using theories and principles of human factor
 
    <body>
 
+     <h3>Educational Background:</h3>
+
+     <!-- Create an Unordered List -->
+
+     <ul>
+
+         <li>Ph.D., Industrial and Systems Engineering, University of Florida - 2023</li>
+
+         <li>Ph.D. Minor,Statistics, University of Florida - 2023</li>
+
+         <li>M.S., Management Science and Engineering, Nanjing University - 2019</li>
+
+         <li>B.S., Industrial Engineering, Shandong University - 2016</li>
+
+
+     </ul>
+
+   </body>
+
+      </head>
+
+   <body>
+
      <h3>Some of my specific research interests include:</h3>
 
      <!-- Create an Unordered List -->
 
      <ul>
 
-         <li>Modeling human-automation interaction and human performance</li>
-
-         <li>Addressing human factors in surface transportation</li>
-
          <li>Improving assistive technology design</li>
-
          <li>Predicting human cognitive or physical states</li>
-
+         <li>Modeling human-automation interaction and human performance</li>
+         <li>Addressing human factors in surface transportation</li>
          <li>Developing new analytical methods for systems safety</li>
 
      </ul>
