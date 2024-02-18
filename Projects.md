@@ -8,6 +8,50 @@ title: PROJECTS
 
 <br/>
 
+## 1. EMG-based Assistive Human-Machine Interface Design 
+
+<style>
+img  {
+  float: left;
+  margin-right: 20px;
+}
+</style>
+
+<img height='200' width='300' align="right" src="/assets/images/banners/NSF.png"/>
+ <p style="text-align:justify; text-justify:inter-ideograph;">
+
+<font size=3>This is an NSF-funded project to develop models of powered-prosthetic user cognitive workload when applying different modes of electromyography (EMG)-based device control. Models are to be used for predicting workload associated with use of EMG-based control interfaces in other applications.  <br/><br/><br/><br/>
+
+<a href="{% post_url 2019-12-01-NSF %}">READ MORE</a><br/><br/>
+</font>
+</p>
+
+
+## 2. Real-time Perceptually-enabled Task Guidance in the Extremes 
+
+<style>
+img  {
+  float: left;
+  margin-right: 20px;
+}
+</style>
+
+
+<img height='200' width='300' align="right" src="/assets/images/banners/DARPA1.png"/>
+ <p style="text-align:justify; text-justify:inter-ideograph;">
+
+<font size=3>This a DARPA-funded project on the use of augmented reality for providing knowledge task guidance in extreme situations. The research challenge is to create a data-to-knowledge "pipeline" from wearable devices to an intelligent agency that can determine what information or guidance to provide to human operators in real-time.  <br/><br/><br/>
+
+<a href="{% post_url 2022-01-01-DARPA %}">READ MORE</a><br/><br/>
+</font>
+</p>
+
+
+
+<h1 align="center">PAST PROJECTS</h1>
+---
+<br/>
+
 ## 1. Research on Automation Rate and Situation Awareness Responses 
 
 <style>
@@ -44,48 +88,7 @@ img  {
 </font>
 </p>
 
-<h1 align="center">PAST PROJECTS</h1>
-
-## 3. EMG-based Assistive Human-Machine Interface Design 
-
-<style>
-img  {
-  float: left;
-  margin-right: 20px;
-}
-</style>
-
-<img height='200' width='300' align="right" src="/assets/images/banners/NSF.png"/>
- <p style="text-align:justify; text-justify:inter-ideograph;">
-
-<font size=3>This is an NSF-funded project to develop models of powered-prosthetic user cognitive workload when applying different modes of electromyography (EMG)-based device control. Models are to be used for predicting workload associated with use of EMG-based control interfaces in other applications.  <br/><br/><br/><br/>
-
-<a href="{% post_url 2019-12-01-NSF %}">READ MORE</a><br/><br/>
-</font>
-</p>
-
-
-## 4. Real-time Perceptually-enabled Task Guidance in the Extremes 
-
-<style>
-img  {
-  float: left;
-  margin-right: 20px;
-}
-</style>
-
-
-<img height='200' width='300' align="right" src="/assets/images/banners/DARPA1.png"/>
- <p style="text-align:justify; text-justify:inter-ideograph;">
-
-<font size=3>This a DARPA-funded project on the use of augmented reality for providing knowledge task guidance in extreme situations. The research challenge is to create a data-to-knowledge "pipeline" from wearable devices to an intelligent agency that can determine what information or guidance to provide to human operators in real-time.  <br/><br/><br/>
-
-<a href="{% post_url 2022-01-01-DARPA %}">READ MORE</a><br/><br/>
-</font>
-</p>
-
-
-## 5. Other Projects 
+## 3. Other Projects 
 
 <style>
 img  {
