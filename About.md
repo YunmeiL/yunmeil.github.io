@@ -28,7 +28,7 @@ img  {
 
 Hi there! My name is Yunmei and I'm originally from Yantai, China, a place known for its delicious apples and cherries. <br/><br/>
 
-After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my current studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/>
+After completing my bachelor's degree in industrial engineering at Shandong University, I pursued my master's degree in the same field at Nanjing University. During my studies, I became interested in research on the relationship between humans and systems, which led me to pursue my Ph.D. studies at the University of Florida. I've been involved in several research projects on human-automation interaction, surface transportation and assistive technologies, and I'm also working on a minor in statistics.<br/><br/>
 
 <p>When I'm not busy with research, I enjoy practicing yoga and cooking. My friends say I'm a pro at making Chinese food, but I'm still learning and getting better every day. In my spare time, I also love to try new recipes and experiment with different flavors. Thanks for getting to know me! &#128516;</p>
 

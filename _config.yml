@@ -25,11 +25,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Home
-email: liu.yunmei@ufl.edu
-author: Yunmei Liu
+email: yunmei.liu@louisville.edu
+author: Dr. Yunmei Liu
 copyright: Copyright ©
 description: >- # this means to ignore newlines until "baseurl:"
-  Yuemei Liu - Ph.D. candidate at University of Florida
+  Yuemei Liu - Assistant Professor at University of Louisville
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -143,8 +143,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Yunmei Liu"
-    subheading: "Ph.D. Candidate at University of Florida"
+    heading: "Dr. Yunmei Liu"
+    subheading: "Assistant Professor at University of Louisville"
     banner: 
       image: "assets/images/banners/IMG4.jpeg"
       height: "250px"
