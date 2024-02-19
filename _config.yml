@@ -145,7 +145,6 @@ defaults:
   home:
     heading: "Dr. Yunmei Liu"
     subheading: "Assistant Professor at University of Louisville"
-    subheading: "Human-Centric AI Director"
     banner: 
       image: "assets/images/banners/IMG4.jpeg"
       height: "250px"
