@@ -26,7 +26,7 @@ img  {
 
 
 <!-- <h1 align="center">ABOUT</h1> -->
-
+<font size=3>
 Human-centric AI is an approach to artificial intelligence (AI) that places humans at the heart of its design, development, and deployment. It's about creating AI systems that understand and adapt to human needs and contexts, ensuring that technology enhances human capabilities. <br/><br/>
 
 To achieve this, we are using wearable sensors to gather a wide range of data, including physiological signals like heart rate, skin conductance, and even brain activity, as well as performance metrics such as task completion time and error rates. By analyzing this rich dataset with machine learning and statistical methods, we can model human performance and behavior with remarkable accuracy. <br/><br/>
@@ -34,11 +34,11 @@ To achieve this, we are using wearable sensors to gather a wide range of data, i
 Human-Centric AI allows AI systems that not only understand our instructions but also our intentions, emotions, and limitations, paving the way for a future where human-AI collaboration is as natural and intuitive as human-human interaction.<br/><br/>
 
 
-<h3 align="left">We are excited to announce openings for two fully-funded PhD positions within our team. Click <a href="/assets/images/banners/PhD position.pdf">HERE</a> to for more details!</h3>
+<h3 align="left" style="color: orangered;">We are excited to announce openings for two fully-funded PhD positions within our team. Click <a href="/assets/images/banners/PhD position.pdf">HERE</a> to for more details!</h3>
 
  <p style="text-align:justify; text-justify:inter-ideograph;">
-<font size=3>
-<b>Mail Address:</b><br/><br/>
+
+<b>Mail Address:</b><br/>
 University of Louisville<br/>
 Department of Industrial Engineering<br/>
 132 Eastern Pkey, JS 309<br/>
