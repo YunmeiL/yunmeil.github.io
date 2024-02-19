@@ -60,7 +60,7 @@ img  {
 <img height='200' width='300' align="right" src="/assets/images/banners/REU.png"/>
  <p style="text-align:justify; text-justify:inter-ideograph;">
 
-<font size=3>This new three-year REU project entitled REU Site in Advanced Manufacturing and Supply Chain (AMSC) at the University of Louisville will provide a 10-week summer experiential training. REU students will work closely with faculty mentors on cutting-edge research projects that are motivated from real world problems. The AMSC REU students will also participate in professional development opportunities such as workshops, training sessions, research presentations, and plant tours. <br/><br/><br/>
+<font size=3>This new three-year REU project entitled REU Site in Advanced Manufacturing and Supply Chain (AMSC) at the University of Louisville will provide a 10-week summer experiential training. REU students will work closely with faculty mentors on cutting-edge research projects that are motivated from real world problems. The AMSC REU students will also participate in professional development opportunities such as workshops, training sessions, research presentations, and plant tours. <br/><br/>
 
 <a href="https://www.aqlanlab.org/research/reu/project-6" target="_blank">READ MORE</a><br/><br/>
 </font>
