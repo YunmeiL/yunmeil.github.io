@@ -32,7 +32,7 @@ Human-centric AI is an approach to artificial intelligence (AI) that places huma
 To achieve this, we are using wearable sensors to gather a wide range of data, including physiological signals like heart rate, skin conductance, and even brain activity, as well as performance metrics such as task completion time and error rates. By analyzing this rich dataset with machine learning and statistical methods, we can model human performance and behavior with remarkable accuracy. <br/><br/>
 
 Human-Centric AI allows AI systems that not only understand our instructions but also our intentions, emotions, and limitations, paving the way for a future where human-AI collaboration is as natural and intuitive as human-human interaction.<br/><br/>
-
+</font>
 
 <h3 align="left" style="color: orangered;">We are excited to announce openings for two fully-funded PhD positions within our team. Click <a href="/assets/images/banners/PhD position.pdf">HERE</a> to for more details!</h3>
 
@@ -55,7 +55,7 @@ Louisville, KY, 40292<br/>
 <br/><br/>
            
 <!-- <b>Click <a href="/assets/images/banners/Update_CV_YL_0213.pdf" download="cv.pdf">HERE</a> to download my resume.</b><br/><br/><br/> -->
-</font>
+
 
 
  <!-- Show map -->
